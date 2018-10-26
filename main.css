@@ -1,11 +1,21 @@
 .luna {
-    background-color: aqua;
+    background-color: blueviolet;
     color: black;
+    font: 15px arial, sans-serif;
 }
 
 .bacon {
     background-color: blueviolet;
     color: grey;
+    font: 15px arial, sans-serif;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 10px solid;
+    color: yellow;
 }
 
 h1 {
@@ -18,4 +28,13 @@ h2 {
 
 li { 
     color: pink;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+p {
+    font: 15px arial, sans-serif;
+    
 }
